@@ -17,10 +17,6 @@ To run the Streamlit app, you'll need to clone the repository and install the re
 
 1. Clone this repository to your local machine using the following command:
 
-   ```bash
-   gh repo clone knockcat/Brain-Tumor-Detection
-
-   cd Brain-Tumor-Detection
 
 ## How to Use
 To use the Brain Tumor Detection Streamlit App, follow these steps:
@@ -29,8 +25,6 @@ To use the Brain Tumor Detection Streamlit App, follow these steps:
 
    streamlit run app.py
 ```
-## Author
 
-This project was created by [Vishal Joshi](https://github.com/knockcat/). You can connect with me on [LinkedIn](https://www.linkedin.com/in/vishal-joshi-7194491b7/) and follow me [here](https://github.com/knockcat/).
 
 
