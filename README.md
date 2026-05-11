@@ -3,8 +3,7 @@
 ## Description
 This Streamlit app allows you to upload an MRI image and predict if there's a brain tumor or not. The app uses a trained Keras model to make the predictions.
 
-## Deploy the Model From here
-https://brain-tumor-detection.streamlit.app/
+
 
 ## Dataset for Training the Model
 To train the model, we used the MRI brain tumor dataset. You can download the dataset containing Images from the following link:
